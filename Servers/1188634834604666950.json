@@ -1,0 +1,43 @@
+{
+    "Created": "2023-12-25 01:18:02",
+    "Inactive-Channel": null,
+    "Inactive-Timeout": 300,
+    "System-Messages": null,
+    "Template-Description": null,
+    "Template-Title": "name test",
+    "Send-Welcome-Messages": true,
+    "Send-Boost-Messages": true,
+    "Name": "name test",
+    "ID": 1188634834604666950,
+    "Channels": [
+        {
+            "Name": "test",
+            "ID": 1188753706334834701,
+            "Type": [
+                "text",
+                0
+            ],
+            "Position": 0,
+            "Category": null,
+            "NSFW": false,
+            "Slowmode": 0,
+            "Topic": null
+        }
+    ],
+    "Voice-Channels": [
+        {
+            "Name": "vc test",
+            "ID": 1188753707161104436,
+            "Type": [
+                "voice",
+                2
+            ],
+            "Position": 0,
+            "Category": null,
+            "Bitrate": 64000,
+            "User-Limit": 0
+        }
+    ],
+    "Roles": [],
+    "Categories": []
+}
